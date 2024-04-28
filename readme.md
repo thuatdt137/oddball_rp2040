@@ -1,10 +1,3 @@
-# PMW3360-RP2040
-
-[PMW3360 PCB](https://github.com/thuatdt137/oddball_rp2040) QMK example RP2040 edition.
-
-Pre-Build firmware can be found in [Releases](https://github.com/thuatdt137/oddball_rp2040).
-
-## Usage
 
 Copy and paste this folder to `qmk_firmware\keyboards\`, and build:
 ```
